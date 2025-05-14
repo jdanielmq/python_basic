@@ -18,3 +18,4 @@ print(gato.msg())
 
 perro = Tipo('Perro','Guau')
 print(perro.msg())
+
