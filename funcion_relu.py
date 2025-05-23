@@ -28,5 +28,5 @@ valor_dos = sigmoid(-10)
 print(valor_dos)
 
 
-resultado = tanh(0)
+resultado = tanh(-1.5)
 print(resultado)
